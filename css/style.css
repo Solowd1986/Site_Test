@@ -4,3 +4,20 @@
     height: 200px;
     background: grey;
 }
+
+.css-test {
+    font-size: 24px;
+    background: antiquewhite;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.bl0 {
+    font-size: 24px;
+    color: brown;
+}
+
+.bl1 {
+    line-height: 40px;
+    margin-top: 20px;
+}
